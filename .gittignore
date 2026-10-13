@@ -1,0 +1,7 @@
+# Ham ve maç düzeyindeki veri depoya eklenmez (lisanslı veri, bkz. README)
+data/
+# Python / sistem
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
