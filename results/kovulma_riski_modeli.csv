@@ -1,0 +1,8 @@
+model,degisken,risk_carpani,ga_alt,ga_ust,p
+xG'li sezonlar,Son 5 maçın puanı,1.889,1.417,2.518,0.0
+xG'li sezonlar,xG'ye göre hak edilen puan,1.035,0.623,1.718,0.895
+xG'li sezonlar,Bahis beklentisi (takım gücü),0.696,0.364,1.332,0.274
+xG'li sezonlar,Son maçı kaybetmek,4.738,2.543,8.829,0.0
+10 sezon (bahis oranı),Son 5 maçın puanı,2.252,1.888,2.686,0.0
+10 sezon (bahis oranı),Bahis beklentisi (takım gücü),0.671,0.487,0.923,0.014
+10 sezon (bahis oranı),Son maçı kaybetmek,4.649,3.078,7.021,0.0
